@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+./src/utils/templateMailing.html
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Dependency directories
+jspm_packages/
+
+# Compiled files
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm packages
+package-lock.json
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Editor folders
+.vscode/
+.idea/
+
+# Testing directories
+coverage/
+
+# dotenv environment variable file
+.env.local
+.env.*.local
